@@ -26,7 +26,6 @@ call vundle#begin()
 Plugin 'scrooloose/syntastic'
 Plugin 'tpope/vim-fugitive'
 Plugin 'jdkanani/vim-material-theme'
-Plugin 'cakebaker/scss-syntax.vim'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'eparreno/vim-l9'
